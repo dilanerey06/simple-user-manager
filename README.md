@@ -4,8 +4,6 @@
 
 ## Description
 
-GitHub Pages: https://dilanerey06.github.io/simple-user-manager/
-
 Frontend application made using: JavaScript, ReactJS, Bootstrap 5.0, Hooks, Custom hooks.
 
 It is just a study project, doesn't connect with any API or Backend technologie, it was made in my learning process of React hooks. It's a user manager that uses a form with controlled components and
